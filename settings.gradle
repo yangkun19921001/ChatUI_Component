@@ -1,0 +1,1 @@
+include ':app', ':WeiXinRecorded', ':chatinput', ':messagelist', ':waveview'
